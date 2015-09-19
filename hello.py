@@ -1,3 +1,6 @@
 # -*- coding:utf-8 -*-
 # coding=utf-8
-echo "hello"
+
+import sys
+
+echo "hello, %s" % (sys.argv[0])
