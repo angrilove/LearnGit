@@ -1,0 +1,9 @@
+
+# System files
+.DS_store
+
+
+# auto gen files
+*.class
+Thumbs.db
+classes/

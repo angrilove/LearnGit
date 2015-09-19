@@ -4,3 +4,4 @@
 import sys
 
 echo "hello, %s" % (sys.argv[0])
+echo "Do ..."
